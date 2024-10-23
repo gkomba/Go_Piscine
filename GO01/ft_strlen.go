@@ -12,6 +12,6 @@ func	ft_strlen(str string) int {
 	return (i);
 }
 
-func	main() {
-	fmt.Println(ft_strlen("hello"));
-}
+// func	main() {
+// 	fmt.Println(ft_strlen("hello"));
+// }

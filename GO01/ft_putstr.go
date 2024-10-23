@@ -6,9 +6,9 @@ func	ft_putstr(str *string) {
 	fmt.Println(*str);
 }
 
-func	main() {
-	var hello string;
+// func	main() {
+// 	var hello string;
 
-	hello = "clear";
-	ft_putstr(&hello);
-}
+// 	hello = "clear";
+// 	ft_putstr(&hello);
+// }

@@ -13,6 +13,6 @@ func ft_print_reverse_number() {
 	fmt.Println()
 }
 
-func main() {
-	ft_print_reverse_number()
-}
+// func main() {
+// 	ft_print_reverse_number()
+// }
