@@ -28,6 +28,6 @@ func ft_atoi(str string) int {
 	return (res * sign)
 }
 
-func main() {
-	fmt.Println(ft_atoi("1233"))
-}
+// func main() {
+// 	fmt.Println(ft_atoi("1233"))
+// }
