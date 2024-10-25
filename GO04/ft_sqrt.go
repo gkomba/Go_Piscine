@@ -1,5 +1,9 @@
 package main
 
+import (
+	"fmt"
+)
+
 func ft_sqrt(nbr int) int64 {
 	var index int64
 	var tmp int64
@@ -23,6 +27,6 @@ func ft_sqrt(nbr int) int64 {
 	return 0
 }
 
-// func	main() {
-// 	fmt.Println(ft_sqrt(4))
+// func main() {
+// 	fmt.Println(ft_sqrt(1440))
 // }
